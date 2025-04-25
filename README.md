@@ -11,6 +11,14 @@ To run this app, open `script.js` and replace: `const apiKey = "YOUR_API_KEY";` 
 
 ---
 
+## 📸 Screenshot
+
+<img width="1440" alt="main" src="https://github.com/user-attachments/assets/475d8474-cc17-4afb-b8b7-c9cee126740c" />
+<img width="1440" alt="dry" src="https://github.com/user-attachments/assets/b910e8a8-ac0e-4940-88e3-5b4b6fac27e3" />
+<img width="1440" alt="rain" src="https://github.com/user-attachments/assets/fabe92f8-58d1-42a6-8bca-dd31c0a5adde" />
+
+---
+
 ## 🚀 Features
 
 - 🔍 Search by city
